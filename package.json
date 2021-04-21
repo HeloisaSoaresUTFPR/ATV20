@@ -1,0 +1,25 @@
+{
+  "name": "atv20",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeloisaSoaresUtpr/ATV20.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeloisaSoaresUtpr/ATV20/issues"
+  },
+  "homepage": "https://github.com/HeloisaSoaresUtpr/ATV20#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "node-persist": "^3.1.0"
+  }
+}
